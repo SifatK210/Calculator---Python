@@ -21,7 +21,7 @@ A simple calculator project built using Python that performs basic arithmetic op
 ## Project Preview
 This project simulates a basic calculator and helps in understanding Python fundamentals and problem-solving logic.
 
-![Calculator Output](calculator-output.png)
+![Calculator Output](calculator%20output.png)
 
 ## Author
 Sifat Kaur
